@@ -42,7 +42,7 @@ const Header = ({ setAuthentication, authentication }) => {
             <form className="Search">
               <input type="text" placeholder="SEARCH" onKeyDown={search} />
               <img
-                src={process.env.PUBLIC_URL + "./img/search.png"}
+                src={process.env.PUBLIC_URL + "/img/search.png"}
                 alt="search_icon"
               />
             </form>

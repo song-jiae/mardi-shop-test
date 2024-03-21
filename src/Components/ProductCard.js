@@ -9,7 +9,7 @@ const ProductCard = ({ item }) => {
   };
   return (
     <div className="ProductCard" onClick={goToDetail}>
-      <img src={item?.img} alt="thumNail" />
+      <img src={item?.img} alt="thumNail" /> {/* 여기에서 img 속성을 사용합니다. */}
       <div className="TextWrap">
         <h3 className="SubTitle">
           Conscious choice <span>{item?.tag.join(" & ")}</span>
