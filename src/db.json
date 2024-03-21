@@ -1,0 +1,581 @@
+{
+    "products": [
+      {
+        "id": 0,
+        "img": "https://mardimercredi.com/web/product/medium/202402/d2986899c4debf51196183e8194ce280.jpg",
+        "title": "[ACTIF] MESH FLARE SKIRT METAL BLOOMMARDI WAPPEN_BLACK",
+        "price": 61200,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 1,
+        "img": "https://mardimercredi.com/web/product/medium/202402/b9ef5a300c81da587a92f83d5b1cb62c.jpg",
+        "title": "[ACTIF] T-SHIRT ACTIF BLOOMMARDI_OATMEAL RED",
+        "price": 61200,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 2,
+        "img": "https://mardimercredi.com/web/product/medium/202402/b3aea66ef9835063eda1be74b8502672.jpg",
+        "title": "[ACTIF]ACTIVE AIR PIQUET TSHIRT_PINK IVORY 특가상품",
+        "price": 88200,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 3,
+        "img": "https://mardimercredi.com/web/product/medium/202402/e869716ce82738091f3a6d2209ffa946.jpg",
+        "title": "[ACTIF]WINDBREAKER PIQUET ZIP UP HALF SLEEVE CHAMPION CUP ACTIF_BLACK IVORY",
+        "price": 106200,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 4,
+        "img": "https://mardimercredi.com/web/product/medium/202402/ec641e070de9ced13b3fec1a1fb34f37.jpg",
+        "title": "[ACTIF]METALLIC SLEEVELESS KNIT TOP FLOWER NEEDLEWORK_PINK IVORY 특가상품",
+        "price": 61200,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 5,
+        "img": "https://mardimercredi.com/web/product/medium/202402/5fdb567a4efdedb75ae0184d7c880b27.jpg",
+        "title": "[ACTIF]KNIT PIQUET TOP CLOVERMARDI BOUCLE_IVORY GREEN",
+        "price": 142200,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 6,
+        "img": "https://mardimercredi.com/web/product/medium/202402/b9ef5a300c81da587a92f83d5b1cb62c.jpg",
+        "title": "[ACTIF]KNIT PIQUET TOP CLOVERMARDI BOUCLE_IVORY GREEN",
+        "price": 61200,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 7,
+        "img": "https://mardimercredi.com/web/product/medium/202402/f5ad95b5412c31201512e1ddc823ba45.jpg",
+        "title": "[ACTIF]KNIT PIQUET TOP CLOVERMARDI BOUCLE_PINK IVORY 특가상품",
+        "price": 61200,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 8,
+        "img": "https://mardimercredi.com/web/product/medium/202402/150105ed01eb9a3c2b882c497ebb29b0.jpg",
+        "title": "[ACTIF] RIBBED SLIM FIT ZIP UP TOP_IVORY BEIGE",
+        "price": 79200,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 9,
+        "img": "https://mardimercredi.com/web/product/medium/202402/01f5cfb8afd63a9dcbab5e76c16ed07a.jpg",
+        "title": "[ACTIF] T-SHIRT ACTIF BLOOMMARDI_OATMEAL RED",
+        "price": 167200,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 10,
+        "img": "https://mardimercredi.com/web/product/medium/202403/b5504662375f1a2afeb2cfc050a13f26.jpg",
+        "title": "SWEATSHIRT FLOWERMARDI_NAVY LEMON",
+        "price": 63750,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 11,
+        "img": "https://mardimercredi.com/web/product/medium/202403/001bfee9ebb54d48fe23d75f2a73f552.jpg",
+        "title": "SWEATSHIRT FLOWERMARDI_BLACK SKY",
+        "price": 63750,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 12,
+        "img": "https://mardimercredi.com/web/product/medium/202403/442d74b89b1cf24bd73773f51ec8340b.jpg",
+        "title": "SWEATSHIRT FLOWERMARDI NEEDLEWORK_NAVY FUCHSIA",
+        "price": 108800,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 13,
+        "img": "https://mardimercredi.com/web/product/medium/202403/0c8ee098bad114931dc08c04845c92ea.jpg",
+        "title": "CROPPED SWEATSHIRT CLOVERMARDI_BLACK PINK",
+        "price": 72250,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 14,
+        "img": "https://mardimercredi.com/web/product/medium/202403/261bf4c595a9eaa147b51b837b87c5d3.jpg",
+        "title": "CROPPED SWEATSHIRT V NECK CLOVERMARDI SATIN_PINK",
+        "price": 83300,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 15,
+        "img": "https://mardimercredi.com/web/product/medium/202403/0e7018daf95b21798b3920e2088a2fe9.jpg",
+        "title": "MAXI DRESS TUBE TOP DOT_NAVY",
+        "price": 253300,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 16,
+        "img": "https://mardimercredi.com/web/product/medium/202403/e7883b56e42024a13d48388a91d519c5.jpg",
+        "title": "WOOL CROPPED V NECK ALUMNI CLASSIQUE_GREY BLACK",
+        "price": 100300,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 17,
+        "img": "https://mardimercredi.com/web/product/medium/202403/b1247c78b2f73f496c26303a904db1b4.jpg",
+        "title": "WOOL CROPPED V NECK ALUMNI CLASSIQUE_NAVY IVORY",
+        "price": 100300,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 18,
+        "img": "https://mardimercredi.com/web/product/medium/202403/bceb5ba2ed187a7f1968f7de859be9e6.jpg",
+        "title": "WOOL CROPPED V NECK CLOVERMARDI_PURPLE",
+        "price": 108800,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 19,
+        "img": "https://mardimercredi.com/web/product/medium/202403/c9cc919dc559a7bf39b16071bd1eeef2.jpg",
+        "title": "SLIMFIT SHIRT PIQUET ALUMNI CLASSIQUE_SKY NAVY",
+        "price": 72250,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 20,
+        "img": "https://mardimercredi.com/web/product/medium/202403/da5bfd1ce87106974531c54f22eedbca.jpg",
+        "title": "[3/6 순차배송] SWEAT PANTS CLOVERMARDI_PINK",
+        "price": 91800,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 21,
+        "img": "https://mardimercredi.com/web/product/big/202402/a18ae28e9683df621fa758c258068cb4.jpg",
+        "title": "RIBBON SHOELACE_WHITE",
+        "price": 12750,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 22,
+        "img": "https://mardimercredi.com/web/product/big/202403/b0f9ef0f7ad34218c732e76ed250701e.jpg",
+        "title": "RIBBON SHOELACE_PEACH",
+        "price": 12750,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 23,
+        "img": "https://mardimercredi.com/web/product/big/202403/886f5f078b2e3c6da70ea474b9a1c5fd.jpg",
+        "title": "RIBBON SHOELACE_PINK",
+        "price": 12750,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 24,
+        "img": "https://mardimercredi.com/web/product/big/202403/f6752f3860118cb73021a7257cacdf4d.jpg",
+        "title": "RIBBON SHOELACE_BLACK",
+        "price": 12750,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 25,
+        "img": "https://mardimercredi.com/web/product/medium/202402/8ce122cfdcb1adf7cba4d98e71cb7c37.jpg",
+        "title": "RIBBON SHOELACE_WHITE BLACK",
+        "price": 12750,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 26,
+        "img": "https://mardimercredi.com/web/product/medium/202402/4c6faeb37ca7c816ab2fa7964064e887.jpg",
+        "title": "RIBBON SHOELACE_BLACK WHITE",
+        "price": 12750,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 27,
+        "img": "https://mardimercredi.com/web/product/medium/202309/0b3548ff3c892a6e9a04f31e6114651f.jpg",
+        "title": "ECLORE SNEAKERS_IVORY",
+        "price": 73800,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 28,
+        "img": "https://mardimercredi.com/web/product/medium/202310/8dc0288f127626a62a8a5f6c9f34750f.png",
+        "title": "ECLORE SNEAKERS_BLACK",
+        "price": 73800,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 29,
+        "img": "https://mardimercredi.com/web/product/medium/202310/6bc301b8e5e07c6fba9ec2a6d824451a.jpg",
+        "title": "ECLORE SNEAKERS_HOT PINK",
+        "price": 73800,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 30,
+        "img": "https://mardimercredi.com/web/product/medium/202310/cf6cf3ec2e9b861ca15f3e29b9e874b9.png",
+        "title": "ECLORE SNEAKERS_BEIGE",
+        "price": 73800,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 31,
+        "img": "https://mardimercredi.com/web/product/medium/202310/a70d000090a296d3353c86f6750975e5.jpg",
+        "title": "ECLORE MARYJANE_IVORY",
+        "price": 71100,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 32,
+        "img": "https://mardimercredi.com/web/product/medium/202402/04bcc5e4d962e4f6f5f4276e9aaf70bb.jpg",
+        "title": "KIDS SEERSUCKER JACKET STRIPE_SKY",
+        "price": 160200,
+        "tag": ["Best", "New"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 33,
+        "img": "https://mardimercredi.com/web/product/medium/202402/eb8533fc72ac286ff81d91ac54b907f6.jpg",
+        "title": "KIDS SEERSUCKER JACKET_PINK",
+        "price": 160200,
+        "tag": ["Best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 34,
+        "img": "https://mardimercredi.com/web/product/medium/202402/72c8669665a2fd79c0e8e6c33a7b9826.jpg",
+        "title": "KIDS JACKET ALUMNI CLASSIQUE_NAVY",
+        "price": 169200,
+        "tag": ["New"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 35,
+        "img": "https://mardimercredi.com/web/product/medium/202402/0f5c44ca68f98ec1f055ce372b63c173.jpg",
+        "title": "KIDS SEERSUCKER SHIRT DRESS HALF SLEEVE STRIPE_SKY FUSHIA",
+        "price": 106200,
+        "tag": ["Best", "New"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 36,
+        "img": "https://mardimercredi.com/web/product/medium/202402/0ae22c502dbd4e8714c468662fc1c5c4.jpg",
+        "title": "KIDS WINDBREAKER HOODY_IVORY",
+        "price": 133200,
+        "tag": ["Best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 37,
+        "img": "https://mardimercredi.com/web/product/medium/202402/eab24961ae2edd52676002893c337897.jpg",
+        "title": "KIDS SWEATSHIRT FLOWER CHOCKER SWING THE TAIL DDANJI_OATMEAL NAVY",
+        "price": 52200,
+        "tag": ["New"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 38,
+        "img": "https://mardimercredi.com/web/product/medium/202402/2049e552f6b03db7ea10c1e2666c1891.jpg",
+        "title": "KIDS COTTON SHIRT HALF SLEEVE FLORAL_CORAL PINK",
+        "price": 66600,
+        "tag": ["Best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 39,
+        "img": "https://mardimercredi.com/web/product/medium/202402/0f9a2891561311b6b2a75722b9e545a5.jpg",
+        "title": "KIDS COTTON PLEATS SKIRT_NAVY",
+        "price": 88200,
+        "tag": ["Best", "New"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 40,
+        "img": "https://mardimercredi.com/web/product/medium/202402/a4261d00f206b7b08737b934d12988b6.jpg",
+        "title": "KIDS CABLE KNIT PANTS_PINK",
+        "price": 88200,
+        "tag": ["Best", "New"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 41,
+        "img": "https://mardimercredi.com/web/product/medium/202402/94f326e7f01a1b26d795fc779867cd0a.jpg",
+        "title": "KIDS SWEAT SHORTS CLOVERMARDI_OATMEAL PINK",
+        "price": 43200,
+        "tag": ["New"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 42,
+        "img": "https://mardimercredi.com/web/product/medium/202402/c91266849b7c86141a605e37abab4843.jpg",
+        "title": "TSHIRT SATIN SPADE_WHITE MINT",
+        "price": 44200,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 43,
+        "img": "https://mardimercredi.com/web/product/medium/202402/2cbef8fb9ccb1c3a00d02fd0247ba8df.jpg",
+        "title": "TSHIRT SATIN SPADE_HEATHER PINK",
+        "price": 44200,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 44,
+        "img": "https://mardimercredi.com/web/product/medium/202402/858b8145704209beca17168e1e0bb2e7.jpg",
+        "title": "TSHIRT SATIN SPADE_OATMEAL BEIGE",
+        "price": 44200,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 45,
+        "img": "https://mardimercredi.com/web/product/medium/202403/c9cc919dc559a7bf39b16071bd1eeef2.jpg",
+        "title": "SLIMFIT SHIRT PIQUET ALUMNI CLASSIQUE_SKY NAVY",
+        "price": 72250,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 46,
+        "img": "https://mardimercredi.com/web/product/medium/202401/700260d704d3f4e10a722626cd16770e.jpg",
+        "title": "TSHIRT FLOWERMARDI_WHITE PINK",
+        "price": 38250,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 47,
+        "img": "https://mardimercredi.com/web/product/medium/202403/2c26bd97f492042c8d1a297891a1b2ce.jpg",
+        "title": "[EXCLUSIVE] TSHIRT FLOWERMARDI_BLACK PINK",
+        "price": 38250,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 48,
+        "img": "https://mardimercredi.com/web/product/medium/202401/dbd3467cde9fe73b275fd88a3c8027eb.jpg",
+        "title": "RUGBY SHIRT STRIPE FLOWER_IVORY NAVY",
+        "price": 100300,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 49,
+        "img": "https://mardimercredi.com/web/product/medium/202304/200f0f161e16629317ebdbec61a35c0a.jpg",
+        "title": "CROPPED TSHIRT FLOWERMARDI BLOSSOM_WHITE NAVY",
+        "price": 40800,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 50,
+        "img": "https://mardimercredi.com/web/product/medium/202301/1451fecb7033321dfcede28725358615.jpg",
+        "title": "TSHIRT FLOWERMARDI GRADATION_WHITE PINK",
+        "price": 45900,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 51,
+        "img": "https://mardimercredi.com/web/product/medium/202402/9c41ea957e96ceb8602166017ba96cff.jpg",
+        "title": "OVERSIZED SHIRT PIQUET ALUMNI CLASSIQUE_WHITE NAVY",
+        "price": 75650,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 52,
+        "img": "https://mardimercredi.com/web/product/medium/202402/ef03a0194948240402d11078e5557689.jpg",
+        "title": "[3/26 순차배송] MOHAIR CARDIGAN V NECK CLOVERMARDI_PINK",
+        "price": 134300,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 53,
+        "img": "https://mardimercredi.com/web/product/medium/202403/e7883b56e42024a13d48388a91d519c5.jpg",
+        "title": "WOOL CROPPED V NECK ALUMNI CLASSIQUE_GREY BLACK",
+        "price": 100300,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 54,
+        "img": "https://mardimercredi.com/web/product/medium/202403/b1247c78b2f73f496c26303a904db1b4.jpg",
+        "title": "WOOL CROPPED V NECK ALUMNI CLASSIQUE_NAVY IVORY",
+        "price": 100300,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 555,
+        "img": "https://mardimercredi.com/web/product/medium/202402/3dc25947958e9dbb24cfb049fd815d56.jpg",
+        "title": "WOOL CROPPED V NECK ALUMNI CLASSIQUE_PINK GREY",
+        "price": 100300,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 56,
+        "img": "https://mardimercredi.com/web/product/medium/202403/bceb5ba2ed187a7f1968f7de859be9e6.jpg",
+        "title": "WOOL CROPPED V NECK CLOVERMARDI_PURPLE",
+        "price": 100800,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 57,
+        "img": "https://mardimercredi.com/web/product/medium/202402/f1305d73f1e5a5e5733a6788498b526c.jpg",
+        "title": "WOOL CROPPED V NECK CLOVERMARDI_MINT",
+        "price": 100800,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 58,
+        "img": "https://mardimercredi.com/web/product/medium/202402/930d0192fe30aaa7c8aacfc94d814e00.jpg",
+        "title": "RACCOON BLENDED TOP SHORT SLEEVE SATIN SPADE_BABYBLUE",
+        "price": 117300,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 59,
+        "img": "https://mardimercredi.com/web/product/medium/202401/05d98f8c78ff98f473e10d1a310e34ff.jpg",
+        "title": "RACCOON BLENDED TOP SHORT SLEEVE SATIN SPADE_MINT",
+        "price": 117300,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 60,
+        "img": "https://mardimercredi.com/web/product/medium/202401/ca9abfd52af5fb231aba584ab0337254.jpg",
+        "title": "CASHMERE BLENDED CARDIGAN HEART BUTTON_BLACK",
+        "price": 117300,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 61,
+        "img": "https://mardimercredi.com/web/product/medium/202401/2fb9cb30ec7c687ed1e555465623db33.jpg",
+        "title": "CASHMERE BLENDED CARDIGAN HEART BUTTON_IVORY",
+        "price": 117300,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 62,
+        "img": "https://mardimercredi.com/web/product/big/202402/418e6ee7ccc65890f2b2d9f6d30d4376.jpg",
+        "title": "SWEAT SHORTS LACE_OATMEAL",
+        "price": 85000,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 63,
+        "img": "https://mardimercredi.com/web/product/big/202402/f522b9bfa66f016674d147df0dd0c951.jpg",
+        "title": "SWEAT SHORTS LACE_GREY",
+        "price": 72250,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 64,
+        "img": "https://mardimercredi.com/web/product/big/202402/55e608f69f33c905476e342a50ac8f52.jpg",
+        "title": "SWEAT SHORTS LACE_BLACK",
+        "price": 72250,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 65,
+        "img": "https://mardimercredi.com/web/product/big/202402/69178743f600b0727b73ee5d5efd8488.jpg",
+        "title": "VOLUME MAXI SKIRT CRAPE DOT_IVORY",
+        "price": 134300,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 66,
+        "img": "https://mardimercredi.com/web/product/big/202401/d33e4013b747c6716919e51e6cdb8720.jpg",
+        "title": "BALLOON MINI SWEAT SKIRT_HEATHER",
+        "price": 72250,
+        "tag": ["best"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 67,
+        "img": "https://mardimercredi.com/web/product/big/202401/f59380d4a0ed6b3f6f7b72d2dc72fd47.jpg",
+        "title": "BALLOON MINI SKIRT CRINKLED_WHITE",
+        "price": 91800,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 68,
+        "img": "https://mardimercredi.com/web/product/big/202401/b94ce2f4c7b953685597c30cdf62619c.jpg",
+        "title": "VOLUME MAXI SKIRT MICADO GINGHAM PLAID_RED",
+        "price": 151300,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 69,
+        "img": "https://mardimercredi.com/web/product/big/202401/cfb41e22d6e33ea1303981e8915f8112.jpg",
+        "title": "SPRING TWEED MERMAID SKIRT LACE_IVORY",
+        "price": 134300,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 70,
+        "img": "https://mardimercredi.com/web/product/big/202401/12cc910ceb0da3ac6099c3beda4bf103.jpg",
+        "title": "OXFORD BERMUDA SHORTS STRIPE_BEIGE",
+        "price": 100300,
+        "tag": ["best", "new"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": 71,
+        "img": "https://mardimercredi.com/web/product/big/202305/4938c09fbcee10ce0b94ffc5129aed83.jpg",
+        "title": "SWEAT SHORTS NUMERO 23_OATMEAL BLACK",
+        "price": 57800,
+        "tag": ["new"],
+        "size": ["S", "M", "L"]
+      }
+    ]
+  }
+  
